@@ -2,6 +2,12 @@
 
 I am Filip and I'm always interested in new techologies.  🤖
 
+Few of web app's which I developed and still maintain:
+
+https://kurt.hr/
+
+https://rodendaonica-dzungla.hr/
+
 Master's degree in Information Technology Engineering and began my journey in 2017 as a systems engineer within the Cisco ecosystem.
 
 In late 2019, I transitioned to backend development. As a Backend Developer with 4 years of hands-on experience, I specialize in building high-performing systems using technologies like Java, Spring, Docker, Kubernetes.
